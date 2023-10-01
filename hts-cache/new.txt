@@ -1,0 +1,3 @@
+date	size'/'remotesize	flags(request:Update,Range state:File response:Modified,Chunked,gZipped)	statuscode	status ('servermsg')	MIME	Etag|Date	URL	localfile	(from URL)
+10:08:13	5011/5011	---M--	200	added ('OK')	text/html	etag:W/%221393-181b6e7d298%22	http://childlike-gravel-ogre.glitch.me/	C:/Users/Roper/Documents/sbsviewer/3dviewer/childlike-gravel-ogre.glitch.me/index.html	(from )
+10:08:13	1987036/1987036	---MCZ	200	added ('OK')	application/javascript	etag:W/%2264441b0b-1e51dc%22	https://aframe.io/releases/1.3.0/aframe.min.js	C:/Users/Roper/Documents/sbsviewer/3dviewer/aframe.io/releases/1.3.0/aframe.min.js	(from http://childlike-gravel-ogre.glitch.me/)
